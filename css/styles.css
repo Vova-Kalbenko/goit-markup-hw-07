@@ -376,8 +376,8 @@ screen and (min-resolution: 2dppx) and (max-width: 767px) {
         text-align: center;
         letter-spacing: 0.02em;
         color: #FFFFFF;
-        margin-right: 54px;
-        margin-left: 54px;
+        margin-right: 39px;
+        margin-left: 39px;
         margin-bottom: 48px;
     }
 
@@ -935,8 +935,8 @@ screen and (min-resolution: 2dppx) and (max-width: 767px) {
         letter-spacing: 0.02em;
         color: #FFFFFF;
         margin-bottom: 40px;
-        margin-right: 136px;
-        margin-left: 136px;
+        margin-right: 121px;
+        margin-left: 121px;
     }
 
     .hero {
@@ -1432,8 +1432,8 @@ screen and (min-resolution: 2dppx) and (max-width: 767px) {
         text-align: center;
         letter-spacing: 0.02em;
         color: #FFFFFF;
-        margin-right: 472px;
-        margin-left: 472px;
+        margin-right: 457px;
+        margin-left: 457px;
         margin-bottom: 48px;
     }
 
